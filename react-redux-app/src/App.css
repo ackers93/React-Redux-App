@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+  width: 60%;
+  margin: 10%;
+}
+
+.App:hover {
+    transform: scale(1.2);
+}
+
+body {
+background-color: bisque;
+display: flex;
+justify-content: center;
+}
+
+.content {
+  padding: 30px;
+}
+
+button {
+  border-radius: 10px;
+}
+
+button:hover {
+  color: green;
+}
